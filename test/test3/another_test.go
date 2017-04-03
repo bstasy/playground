@@ -5,5 +5,5 @@ import (
 )
 
 func AnotherTest() {
-	fmt.Println("Test")
+	fmt.Printf("Test: %d", 3)
 }
