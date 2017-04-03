@@ -1,5 +1,9 @@
 package test3
 
-func AnotherTest() {
+import (
+	"fmt"
+)
 
+func AnotherTest() {
+	fmt.Println("Test")
 }
