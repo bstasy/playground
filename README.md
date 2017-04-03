@@ -1,2 +1,2 @@
 # playground
-Playground
+Repository used for playing with git.
