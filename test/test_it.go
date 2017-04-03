@@ -8,5 +8,6 @@ func main() {
 }
 
 func SomeFunc() {
-	fmt.Printf("someFunc")
+	v := "test"
+	fmt.Printf("someFunc - %s", v)
 }
